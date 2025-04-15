@@ -2,7 +2,7 @@
 
 **`Desenvolvedor`**
 
-Me chamo Luan Silveira de Almeida, tenho 18 anos e sou natural de Santa Catarina. Concluí o ensino médio no CFNP. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNISUL.
+Me chamo Luan Silveira de Almeida, tenho 18 anos nascido em Santa Catarina. Concluí o ensino médio no CFNP. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNISUL.
 
 ---
 ### 🤖 Linguagens e Tecnologias
