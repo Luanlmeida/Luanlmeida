@@ -18,7 +18,7 @@ Me chamo Luan Silveira de Almeida, tenho 18 anos nascido em Santa Catarina. Conc
 ### 📊 Estatísticas
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Luanlmeida&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br"height="155"   />
+  <img src="https://github-readme-stats.vercel.app/api?username=Luanlmeida&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br"height="160"   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luanlmeida&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9"height="165"  />
 </div>
  
