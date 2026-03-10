@@ -18,5 +18,3 @@ Estudante de Análise e Desenvolvimento de Sistemas (3º semestre) com sólida b
 </div>
 
 ###
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?luanlmeida=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
