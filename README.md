@@ -2,7 +2,7 @@
 
 **`Desenvolvedor`**
 
-Estudante de Análise e Desenvolvimento de Sistemas (3º semestre) com sólida base em Java (Spring Boot) e Python, busco oportunidade como Estagiário ou Desenvolvedor Junior para entregar soluções de software robustas, alinhando excelência técnica aos objetivos de negócio da empresa.
+Estudante de Análise e Desenvolvimento de Sistemas que faz uns projetos a parte.
 
 ---
 ### 🤖 Linguagens e Tecnologias
